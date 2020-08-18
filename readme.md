@@ -67,5 +67,5 @@ npm dev
 ## Utilitários
 - Teste de API: <a href="https://insomnia.rest/">Insomnia</a>
 
-## Desafio você!!
-## E ai vai encarar 😏 ?
+### EU Desafio você ❗ 
+### E ai, vai encarar 😏 ❔
