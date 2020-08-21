@@ -1,8 +1,11 @@
-## GoStack 13 - Desafio 02 
-<a href="https://app.rocketseat.com.br/me/murylocesar
-">Meu perfil na plataforma</a>
+<img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios-new.png" />
 
-
+<h3 align="center">
+  GoStack 13 - Desafio 01
+  <br>
+  <a href="https://app.rocketseat.com.br/me/murylocesar">Meu perfil na plataforma</a>
+</h3>
+<br>
 <br>
 
 # 🚀 Sobre o desafio
